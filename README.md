@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about coding and open-source develo
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabinhood529&show_icons=true&theme=dark)
 
 ## Let's Connect
-- LinkedIn: [Your LinkedIn](link)
+- LinkedIn: [inkedIn](https://www.linkedin.com/in/rabin-sthapit/)
 - Twitter: [@YourHandle](link)
 - Email: your.email@example.com
 
