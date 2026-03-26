@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rabinhood529/rabinhood529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and open-source development.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently working on interesting projects
+- 🌱 Always learning and improving my skills
+- 💬 Feel free to ask me about web development, programming, or tech
+- 📧 Reach out to me on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: JavaScript, Python, Java, etc.
+- **Frontend**: HTML, CSS, React, Vue.js
+- **Backend**: Node.js, Express, Django
+- **Tools**: Git, Docker, VS Code
+
+## Featured Projects
+- [Project Name](link) - Brief description
+- [Another Project](link) - Brief description
+
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabinhood529&show_icons=true&theme=dark)
+
+## Let's Connect
+- LinkedIn: [Your LinkedIn](link)
+- Twitter: [@YourHandle](link)
+- Email: your.email@example.com
+
+---
+
+*Last updated: 2026-03-26*
