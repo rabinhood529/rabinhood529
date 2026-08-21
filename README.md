@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm passionate about coding and open-source develo
 - 📧 Reach out to me on GitHub
 
 ## Skills
-- **Languages**: JavaScript, Python, Java, etc.
-- **Frontend**: HTML, CSS, React, Vue.js
-- **Backend**: Node.js, Express, Django
+- **Languages**: Python,PHP
+- **Frontend**: HTML, CSS
+- **Backend**: Django
 - **Tools**: Git, Docker, VS Code
 
 ## Featured Projects
